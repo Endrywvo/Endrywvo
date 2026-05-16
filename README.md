@@ -69,7 +69,7 @@ Sistema de **credenciamento corporativo** e gerenciamento de acessos internos.
 ---
 
 ## 📫 Contato
-📧 **Email:** [endryw.dev@gmail.com](mailto:endryw.dev@gmail.com)  
+📧 **Email:** [endryw.dev@gmail.com](mailto:endryw.dev@proton.me)  
 💼 **LinkedIn:** [linkedin.com/in/endrywvo](https://linkedin.com/in/endrywvo)  
 🌐 **Portfólio** [https://endryw.dev/](https://endryw.dev/) 
 
