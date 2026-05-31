@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🐍 Python Developer • 🗄️ SQL • ⚙️ Automação Corporativa • 🌐 Full Stack • 🏗️ Sistemas 3D
+### 🐍 Python Developer • 🗄️ SQL • ⚙️ Automação Corporativa • 🌐 Full Stack • 🏗️ Sistemas Técnicos 3D
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor focado na criação de soluções corporativas que conectam **automação de processos**, **bancos de dados**, **interfaces modernas** e **análise técnica operacional**.
+Sou desenvolvedor focado na criação de soluções corporativas que conectam **automação de processos**, **bancos de dados**, **interfaces modernas**, **análise técnica operacional** e **visualização 3D**.
 
-Atualmente curso **Ciência da Computação** e desenvolvo sistemas voltados para produtividade, controle operacional, integração entre setores, análise de dados e visualização técnica em ambientes industriais.
+Atualmente curso **Ciência da Computação** e desenvolvo sistemas voltados para produtividade, controle operacional, integração entre setores, engenharia de dados, processamento documental e acompanhamento técnico em ambientes corporativos e industriais.
 
-Meu objetivo é transformar processos manuais e complexos em aplicações digitais **mais eficientes, seguras, escaláveis e visualmente intuitivas**.
+Meu objetivo é transformar processos manuais, repetitivos e complexos em aplicações digitais **seguras, escaláveis, eficientes e visualmente intuitivas**.
 
 ---
 
@@ -28,21 +28,21 @@ Meu objetivo é transformar processos manuais e complexos em aplicações digita
 <tr>
 <td width="50%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="58"/>
 
 ### Python & Automação
 
-Automação corporativa, processamento de arquivos, APIs, ETL, integração de sistemas e scripts para ganho de produtividade.
+Automação corporativa, processamento de arquivos, APIs, ETL, integração de sistemas, leitura documental e scripts para ganho de produtividade operacional.
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="58"/>
 
 ### SQL & Dados
 
-Modelagem relacional, consultas SQL, organização de dados, integração com sistemas e geração de indicadores operacionais.
+Modelagem relacional, consultas SQL, estruturação de dados, integração com sistemas corporativos e construção de indicadores operacionais.
 
 </td>
 </tr>
@@ -50,21 +50,21 @@ Modelagem relacional, consultas SQL, organização de dados, integração com si
 <tr>
 <td width="50%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="58"/>
 
 ### Full Stack
 
-Aplicações web modernas com front-end responsivo, back-end estruturado, autenticação e integração com bancos de dados.
+Aplicações web modernas com front-end responsivo, back-end estruturado, autenticação, dashboards e integração com bancos de dados.
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="55"/>
+<img src="https://cdn.simpleicons.org/unity/FFFFFF" width="55"/>
 
-### Visualização Técnica 3D
+### Sistemas Técnicos 3D
 
-Sistemas para análise visual, acompanhamento físico, status operacional e representação técnica de estruturas.
+Visualização tridimensional, análise técnica, controle visual de avanço físico, status operacional e representação de estruturas.
 
 </td>
 </tr>
@@ -72,21 +72,14 @@ Sistemas para análise visual, acompanhamento físico, status operacional e repr
 
 ---
 
-## 🚀 Projeto em Destaque
+# 🚀 Projetos em Destaque
+
+## 🏗️ BuildScope 3D
+
+> Plataforma de análise técnica e visualização 3D para acompanhamento operacional, controle visual de estruturas e suporte ao planejamento corporativo.
 
 <div align="center">
 
-# 🏗️ BuildScope 3D
-
-</div>
-
-> Software de análise técnica e visualização 3D para acompanhamento operacional, controle visual de estruturas e suporte ao planejamento corporativo.
-
-<div align="center">
-
-<a href="https://github.com/Endrywvo/buildscope-3d">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Endrywvo&repo=buildscope-3d&theme=tokyonight&hide_border=true"/>
-</a>
 
 </div>
 
@@ -103,87 +96,99 @@ Sistemas para análise visual, acompanhamento físico, status operacional e repr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,mysql"/>
 
 </div>
 
 ---
 
-## 🧩 Outros Projetos
+## 📄 OCR Project — Automação Documental Inteligente
+
+> Sistema desenvolvido para leitura, extração, organização e análise de informações em documentos corporativos.
+
+### ✨ Recursos principais
+
+* 📂 Processamento de documentos em larga escala
+* 🔎 Extração automatizada de informações relevantes
+* 🧠 Estrutura preparada para leitura inteligente de arquivos
+* 🗄️ Organização dos dados extraídos em banco de dados
+* 📊 Apoio à análise operacional, jurídica e administrativa
+* ⚙️ Redução de tarefas manuais e padronização de processos internos
+
+### 🛠️ Tecnologias aplicadas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,mysql"/>
+
+</div>
+
+---
+
+
+# ⚡ Especialidades Técnicas
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-## 📄 Automação Documental
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
 
-Sistema em Python para leitura, extração e organização de dados em documentos corporativos.
+## Python Development
 
-**Recursos:**
-
-* Processamento de grandes volumes de PDFs
-* Extração de informações operacionais
-* Estruturação em banco de dados
-* Exportação para relatórios
-* Interface desktop com PyQt6
-
-**Stack:** Python • SQLite • MySQL • PyQt6
+APIs, automação corporativa, ETL, processamento de arquivos, integração de sistemas e leitura documental.
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-## 🔐 Creds Hub
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
 
-Sistema corporativo para controle de credenciamento, permissões e acessos internos.
+## SQL & Data
 
-**Recursos:**
+Modelagem relacional, consultas, relatórios, estruturação de dados e indicadores operacionais.
 
-* Autenticação segura
-* Controle hierárquico de usuários
-* Painel administrativo
-* Gestão de permissões
-* Arquitetura modular
+</td>
 
-**Stack:** Next.js • React • TypeScript • MySQL
+<td width="33%" align="center">
+
+<img src="https://cdn.simpleicons.org/unity/FFFFFF" width="55"/>
+
+## 3D Systems
+
+Visualização técnica, análise operacional, status por módulo, acompanhamento físico e relatórios visuais.
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-## 📊 Gestão Operacional
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
 
-Sistema web para acompanhamento de equipes, indicadores, contratos e informações operacionais.
+## Full Stack
 
-**Recursos:**
-
-* Dashboards gerenciais
-* Indicadores operacionais
-* Gestão de efetivo
-* Controle de contratos
-* Interface responsiva
-
-**Stack:** Python • SQL • React • Next.js • MySQL
+Interfaces modernas, dashboards, autenticação, integração com APIs e aplicações web responsivas.
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-## ⚙️ Automações Corporativas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55"/>
 
-Scripts e sistemas para reduzir tarefas repetitivas e integrar fluxos internos.
+## Automation Ops
 
-**Recursos:**
+Scripts, rotinas automatizadas, padronização de processos, produtividade e suporte a ambientes corporativos.
 
-* Padronização de processos
-* Integração entre setores
-* Tratamento de dados
-* Relatórios automatizados
-* Ganho de produtividade
+</td>
 
-**Stack:** Python • SQL • FastAPI • Linux
+<td width="33%" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55"/>
+
+## APIs & Systems
+
+Construção de serviços, integração entre módulos, arquitetura modular e comunicação entre sistemas.
 
 </td>
 </tr>
@@ -191,118 +196,145 @@ Scripts e sistemas para reduzir tarefas repetitivas e integrar fluxos internos.
 
 ---
 
-## 🛠️ Stack Principal
+# 📈 GitHub Analytics
 
-<div align="center">
-
-### Linguagens
-
-<img src="https://skillicons.dev/icons?i=python,js,ts"/>
-
-### Back-End & APIs
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs"/>
-
-### Banco de Dados
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-### Front-End
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-
-### Ferramentas
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker"/>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Endrywvo&theme=github"
+/>
 
 </div>
 
 ---
 
-## ⚡ Especialidades Técnicas
-
-```text
-┌──────────────────────────────────────────────┐
-│ 🐍 Python Development                        │
-├──────────────────────────────────────────────┤
-│ • Automação Corporativa                      │
-│ • APIs REST                                  │
-│ • ETL e Processamento de Dados               │
-│ • Leitura e Tratamento de Documentos         │
-│ • Integração com Bancos de Dados             │
-└──────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────┐
-│ 🗄️ SQL & Data                                │
-├──────────────────────────────────────────────┤
-│ • MySQL                                      │
-│ • SQLite                                     │
-│ • Modelagem Relacional                       │
-│ • Consultas e Relatórios                     │
-│ • Dashboards Operacionais                    │
-└──────────────────────────────────────────────┘
-
-┌──────────────────────────────────────────────┐
-│ 🏗️ Sistemas Técnicos e Industriais           │
-├──────────────────────────────────────────────┤
-│ • Visualização Técnica 3D                    │
-│ • Controle de Avanço Operacional             │
-│ • Gestão de Efetivo                          │
-│ • Processos Corporativos                     │
-│ • Relatórios Técnicos Automatizados          │
-└──────────────────────────────────────────────┘
-```
-
----
-
-## 📈 GitHub Analytics
+# 📚 Atualmente estudando
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Endrywvo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endrywvo&layout=compact&theme=tokyonight&hide_border=true"/>
+<table>
+<tr>
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
+
+### Python Avançado
+
+APIs, automação, ETL e processamento de dados.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+
+### SQL & Dados
+
+Modelagem, consultas, relatórios e análise operacional.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/>
+
+### Full Stack
+
+Interfaces modernas, back-end, autenticação e dashboards.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://skillicons.dev/icons?i=githubactions" width="55"/>
+
+### Automação
+
+Workflows corporativos, integração de sistemas e produtividade.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Foco%20atual-Python%20%7C%20SQL%20%7C%20Full%20Stack%20%7C%20Automação-0F172A?style=for-the-badge&logo=target&logoColor=38BDF8"/>
 
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+# 📫 Contato
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python%20Avançado-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/SQL%20%26%20Dados-0F172A?style=for-the-badge&logo=mysql&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Full%20Stack-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Automação%20Corporativa-0F172A?style=for-the-badge&logo=githubactions&logoColor=38BDF8"/>
+<table>
+<tr>
+<td align="center" width="25%">
 
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-<a href="mailto:endryw.dev@proton.me">
-<img src="https://img.shields.io/badge/Email-endryw.dev%40proton.me-1E40AF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+<a href="mailto:endryw.dev@gmail.com">
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55"/>
 </a>
+
+### Email
+
+<a href="mailto:endryw.dev@gmail.com">
+<img src="https://img.shields.io/badge/Enviar%20email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+</a>
+
+</td>
+
+<td align="center" width="25%">
 
 <a href="https://www.linkedin.com/in/endryw-vieira/">
-<img src="https://img.shields.io/badge/LinkedIn-Endryw%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="55"/>
 </a>
 
+### LinkedIn
+
+<a href="https://www.linkedin.com/in/endryw-vieira/">
+<img src="https://img.shields.io/badge/Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<td align="center" width="25%">
+
+<a href="https://www.instagram.com/endrywvo/">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="55"/>
+</a>
+
+### Instagram
+
+<a href="https://www.instagram.com/endrywvo/">
+<img src="https://img.shields.io/badge/Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</td>
+<td align="center" width="25%">
+
+<a href="https://github.com/Endrywvo">
+<img src="https://img.icons8.com/fluency/96/github.png" width="55"/>
+</a>
+
+### GitHub
+
+<a href="https://github.com/Endrywvo">
+<img src="https://img.shields.io/badge/Ver%20projetos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <a href="https://endryw.dev/">
-<img src="https://img.shields.io/badge/Portfólio-endryw.dev-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Todos%20os%20links%20em%20endryw.dev-FFFFFF?style=for-the-badge&labelColor=0F172A&color=38BDF8"/>
 </a>
 
 </div>
 
 ---
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E40AF,100:0F172A&height=120&section=footer"/>
-
-### 💻 “Transformando processos complexos em soluções digitais simples, eficientes e escaláveis.”
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E40AF,100:0F172A&height=180&section=footer&text=Building%20Digital%20Solutions&fontSize=34&fontColor=FFFFFF&fontAlignY=65&desc=Python%20•%20SQL%20•%20Automation%20•%20Full%20Stack%20Development&descSize=16&descAlignY=95"/>
 
 </div>
+
