@@ -1,79 +1,186 @@
-# 👋 Olá, eu sou o Endryw Vieira de Oliveira!
+# 👋 Olá, eu sou Endryw Vieira de Oliveira
 
-💻 **Desenvolvedor Full-Stack** com foco em criar soluções modernas, seguras e inteligentes que conectam automação, banco de dados e interfaces de alta performance.  
-🚀 Experiência sólida com **React.js, Next.js, Node.js, Python e MySQL**, integrando front-end e back-end com precisão.  
-🎨 Apaixonado por **UI/UX Design**, **otimização de processos** e **análises baseadas em dados reais**.  
+## Desenvolvedor Full Stack | Python | SQL | Automação Corporativa
 
----
+Desenvolvedor focado na criação de soluções corporativas para automação de processos, análise de dados, sistemas web e visualização técnica de informações.
 
-## 🧠 Sobre mim
-Estou cursando **Ciência da Computação** e desenvolvo sistemas que unem **automação corporativa**, **análise de dados** e **interfaces responsivas**.  
-Atuo na criação de ferramentas que agilizam o fluxo de trabalho entre diferentes setores, garantindo **eficiência operacional**, **segurança da informação** e **integração entre equipes**.
+Atualmente curso Ciência da Computação e atuo no desenvolvimento de aplicações que conectam operações industriais, bancos de dados e interfaces modernas para tomada de decisão em tempo real.
 
-Tenho experiência em construir softwares que combinam **bases Excel**, **MySQL** e **painéis analíticos interativos**, permitindo que dados de planilhas corporativas sejam atualizados e visualizados em tempo real através de sistemas web.
+Minha experiência envolve:
 
-Entre meus principais projetos estão:
-
----
-
-## 🧩 Projetos em Destaque
-
-### 🧾 Sistema de Automação de Leitura de PDFs
-Software desenvolvido em **Python + PyQt6** voltado para automação corporativa.  
-> 🔍 Lê milhares de PDFs simultaneamente (boletins de medição e documentos internos).  
-> 🧠 Extrai dados como **nomes e matrículas de colaboradores**, organizando tudo em **SQLite/MySQL**.  
-> 💾 Inclui cache de rede, extração paralela e exportação otimizada para análise jurídica e operacional.  
-> 🧰 Interface moderna com foco em performance e usabilidade multiusuário.
+* Desenvolvimento Full Stack
+* Automação de Processos Corporativos
+* Engenharia de Dados
+* Sistemas de Gestão Operacional
+* Visualização e Análise Técnica 3D
+* Integração entre aplicações e bancos de dados
+* Dashboards e Business Intelligence
 
 ---
 
-### 📊 Dashboard de Gestão e Alocação de Efetivo
-Sistema analítico que unifica dados de **planilhas Excel**, **MySQL** e **front-end web dinâmico**.  
-> 🔗 Lê automaticamente as planilhas atualizadas em uma pasta local (“alocação diária automatizada”).  
-> 📈 Gera **gráficos, filtros e indicadores em tempo real** sobre mobilização, contratos e efetivo por filial.  
-> 🧩 Desenvolvido com **HTML, CSS, JavaScript, Next.js** e integração direta ao **MySQL**.  
-> 📱 Totalmente responsivo e adaptado para desktop e mobile.  
-> 🔐 Contém sistema de login hierárquico com restrição de acesso e abas específicas por nível de usuário.
+# 🚀 Áreas de Atuação
+
+### Automação Corporativa
+
+Desenvolvimento de soluções para eliminar tarefas repetitivas, reduzir erros operacionais e aumentar a produtividade através de sistemas automatizados.
+
+### Desenvolvimento Full Stack
+
+Construção de aplicações completas utilizando arquitetura moderna, APIs, bancos de dados relacionais e interfaces responsivas.
+
+### Engenharia de Dados
+
+Estruturação, processamento e análise de grandes volumes de dados para suporte à tomada de decisão.
+
+### Sistemas Industriais
+
+Criação de ferramentas voltadas para planejamento, acompanhamento operacional, gestão de ativos e controle de execução em ambientes industriais.
 
 ---
 
-### 🔐 Creds Hub
-Sistema de **credenciamento corporativo** e gerenciamento de acessos internos.  
-> 🛡️ Login seguro com autenticação e níveis de permissão.  
-> 🧭 Painel administrativo moderno em **Next.js + React + TailwindCSS**.  
-> 🧩 Estrutura modular para futuras expansões com banco de dados relacional em **MySQL**.
+# 🧩 Projetos em Destaque
+
+## 🏗️ BuildScope 3D
+
+Plataforma de visualização técnica e acompanhamento operacional em ambientes tridimensionais.
+
+### Principais recursos
+
+* Visualização 3D interativa baseada em navegador
+* Controle visual de avanço físico
+* Representação gráfica de módulos e estruturas
+* Atualização dinâmica de status operacionais
+* Geração automática de imagens e relatórios visuais
+* Interface voltada para engenharia, planejamento e controle de obras
+
+### Tecnologias
+
+Python • JavaScript • HTML5 • CSS3 • Three.js • SQLite
+
+🔗 Projeto:
+https://github.com/Endrywvo/buildscope-3d
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+## 📄 Sistema de Automação Documental
+
+Plataforma desenvolvida em Python para processamento massivo de documentos corporativos.
+
+### Funcionalidades
+
+* Leitura paralela de milhares de arquivos PDF
+* Extração inteligente de informações
+* Processamento assíncrono
+* Armazenamento estruturado em banco de dados
+* Exportação para relatórios operacionais
+
+### Tecnologias
+
+Python • SQLite • MySQL • PyQt6
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Endryw's GitHub stats](https://github-readme-stats.vercel.app/api?username=Endrywvo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endrywvo&layout=compact&theme=tokyonight)
+## 🔐 Creds Hub
+
+Sistema corporativo para gerenciamento de acessos, permissões e credenciamento interno.
+
+### Funcionalidades
+
+* Controle hierárquico de usuários
+* Gestão de permissões
+* Painel administrativo
+* Autenticação segura
+* Estrutura preparada para integração com sistemas corporativos
+
+### Tecnologias
+
+Next.js • React • TypeScript • MySQL
 
 ---
 
-## 📫 Contato
-📧 **Email:** [endryw.dev@proton.me](mailto:endryw.dev@proton.me)  
-💼 **LinkedIn:** [linkedin.com/in/endrywvo](https://www.linkedin.com/in/endryw-vieira/)  
-🌐 **Portfólio** [https://endryw.dev/](https://endryw.dev/) 
+## 📊 Plataforma de Gestão Operacional
+
+Sistema web voltado para acompanhamento de equipes, contratos e indicadores operacionais.
+
+### Funcionalidades
+
+* Dashboards em tempo real
+* Indicadores operacionais
+* Gestão de efetivo
+* Controle de contratos
+* Relatórios gerenciais
+
+### Tecnologias
+
+Python • SQL • React • Next.js • MySQL
 
 ---
 
->💻 “Cada linha de código é uma oportunidade de criar algo melhor.”
+# 🛠️ Stack Principal
 
+## Linguagens
+
+* Python
+* SQL
+* JavaScript
+* TypeScript
+
+## Back-End
+
+* FastAPI
+* Node.js
+* REST APIs
+* SQLite
+* MySQL
+
+## Front-End
+
+* React
+* Next.js
+* Tailwind CSS
+
+## Dados & Automação
+
+* Pandas
+* ETL
+* Automação de Processos
+* Processamento de Documentos
+* Dashboards Analíticos
+
+## Ferramentas
+
+* Git
+* GitHub
+* Linux
+* VS Code
+* Figma
+
+---
+
+# 📈 Objetivos Profissionais
+
+Atuar no desenvolvimento de soluções voltadas para:
+
+* Engenharia de Software
+* Automação Corporativa
+* Sistemas Industriais
+* Engenharia de Dados
+* Desenvolvimento Full Stack
+* Inteligência Artificial aplicada a processos
+* Plataformas de análise operacional
+
+---
+
+# 📫 Contato
+
+📧 [endryw.dev@proton.me](mailto:endryw.dev@proton.me)
+
+💼 LinkedIn:
+https://www.linkedin.com/in/endryw-vieira/
+
+🌐 Portfólio:
+https://endryw.dev/
+
+---
+
+> "Transformando processos complexos em soluções simples através da tecnologia."
